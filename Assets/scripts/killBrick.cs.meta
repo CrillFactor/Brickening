@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a5716029aa8f4a549ab2436ca63be412
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - impact: {fileID: 8300000, guid: cb2a61094d1b26d428b4ecbfcd2faf8b, type: 3}
+  - PlayerStats: {fileID: 100000, guid: a99e1c159d00b6d45a0510bef5ecc807, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 29afb38ba8051c849a0c3c258d4676ce
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Brick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Ball
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Paddle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: plus
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_e
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_r
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_a
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_d
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_y
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_b
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_n
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: sumbol_u
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: sumbol_t
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_m
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_exp
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_f
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_minus
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_multiply
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_v
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_c
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: symbol_k
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9810275c931a80c4792a86c3cf26542b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - normalbrick: {fileID: 100000, guid: fb62151cb040a5c4eb488c059b337539, type: 2}
+  - lifebrick: {fileID: 100000, guid: 9e197180cf11ea4428ce8a071f1f5abe, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
